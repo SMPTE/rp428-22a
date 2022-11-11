@@ -123,7 +123,3 @@ $ empty-tt -text -T -e -p 24 -m -r 1 -t "MyTitle" -d 48 -x <path-to-xml-file> -o
 Although care has been taken to ensure that default behaviour of this program conforms to the constraints defined in the ST 429-2 and RDD 52 documents, it is permissible for non-compliant files to be generated. The sole purpose of this tool is to fulfil testing and educational criteria. Where there is any reliance on its use in production, the following notice is to be observed.
 
 THERE IS NO WARRANTY FOR THE PROGRAM, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS AND/OR OTHER PARTIES PROVIDE THE PROGRAM "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE PROGRAM IS WITH YOU. SHOULD THE PROGRAM PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
-
-## License
-
-See [BSD 3-Clause License](https://github.com/SMPTE/rp428-22a/blob/main/LICENSE).
